@@ -70,16 +70,22 @@ May I be able to share that same enthusiasm!
 
 <br/>
 
-## Github Stats
+## GitHub Stats
 
-<table><tr><td valign="top" width="50%">
-
-</td><td valign="top" width="50%">
-
-</td></tr></table>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csvitor-dev&theme=github_dark" />
+    <div>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=csvitor-dev&theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=csvitor-dev&theme=github_dark" />
+    </div>
+    <div>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=csvitor-dev&theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=csvitor-dev&theme=github_dark&utcOffset=8" />
+    </div>
+</div>
 
 <br/>
 
 ---
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Template from <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
