@@ -1,4 +1,4 @@
-## ⚙️ Hello! I'm Vitor Costa and welcome to my profile, `csvitor-dev`!
+# ⚙️ Hello! I'm Vitor Costa and welcome to my profile, `csvitor-dev`!
 
 ### My social medias
 
@@ -113,6 +113,8 @@ May I be able to share that same enthusiasm!
 </div>
 
 <br/>
+
+> An Ordinary Software Engineering...
 
 ---
 
