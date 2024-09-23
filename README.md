@@ -37,8 +37,6 @@ May I be able to share that same enthusiasm!
 
 <br/>
 
-## Languages and Tools
-
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
