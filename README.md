@@ -25,6 +25,8 @@ May I be able to share that same enthusiasm!
 
 - 🎓 I'm graduating in **Software Engineering** from the Federal University of Ceará
 
+- 💼 I'm currently work on the [Mais-Informa](https://github.com/Mais-Informa/mi-boletim) project
+
 - 📚 I'm currently studying communication protocols between applications such as **_API REST_**, **_GraphQL_** and **_gRPC_**
 
 - 💡 A life in a sentence: **concepts** are greater and more enduring than any **technology** that implements them. _Don't get hung up on technologies, but on concepts_
