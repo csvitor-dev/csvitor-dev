@@ -117,8 +117,18 @@ May I be able to share that same enthusiasm!
 </div>
 
 <br/>
+<br/>
 
-> An Ordinary Software Engineering...
+<div align="center">
+    <div style="background-color:#ffffff;width:fit-content;padding:6px 2px 0 2px;border-radius:25px;">
+	    <a href="https://github.com/An-Ordinary-Software-Engineering" target="_blank">
+		    <img src="./assets/aose-dark.svg" alt="aOSE logo" width="100" />
+	    </a>
+    </div>
+</div>
+
+<br/>
+<br/>
 
 ---
 
