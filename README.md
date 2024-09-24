@@ -1,5 +1,9 @@
 # ⚙️ Hello! I'm Vitor Costa and welcome to my profile, `csvitor-dev`!
 
+<div align="center">
+    <img src="./assets/csvitor-dev.gif" alt="terminal presentation" width="450"/>
+</div>
+
 ### My social medias
 
 <a href="https://github.com/csvitor-dev" target="_blank">
