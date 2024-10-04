@@ -1,6 +1,6 @@
 # ⚙️ Hello! I'm Vitor Costa and welcome to my profile, `csvitor-dev`!
 
-### My social medias
+## My social medias
 
 <a href="https://github.com/csvitor-dev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -9,7 +9,15 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-### About me
+### [`daily.dev`](https://daily.dev/) Dev Card
+
+<div align="center">
+<a href="https://app.daily.dev/csvitor" target="_blank">
+<img src="https://api.daily.dev/devcards/v2/gjB2ZMFvW7IL92UHqHcan.png?type=default&r=eyv" width="356" alt="Vitor Costa's Dev Card"/>
+</a>
+</div>
+
+## About me
 
 I'm a _backend developer_ 🗄️, focusing on the **.NET environment**. However, I have been studying other technologies and languages ​​for a long time, whether in the _backend_ or _frontend_ 🖥️ (which could be considered a _fullstack_ 🔗). Despite this, my greatest appreciation lies in the entirety of development, that is, before that: **the software processes and its life cycle** 📊. Therefore, I can say that I am an admirer of _software engineering_ ⚙️ and its disciplines!
 
@@ -25,7 +33,7 @@ May I be able to share that same enthusiasm!
 
 - 🎓 I'm graduating in **Software Engineering** from the Federal University of Ceará
 
-- 💼 I'm currently work on the [Mais-Informa](https://github.com/Mais-Informa/mi-boletim) project
+- 💼 I'm currently work on the [Mais-Informa](https://github.com/Mais-Informa) project
 
 - 📚 I'm currently studying communication protocols between applications such as **_API REST_**, **_GraphQL_** and **_gRPC_**
 
@@ -107,8 +115,10 @@ May I be able to share that same enthusiasm!
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=csvitor-dev&theme=github_dark" />
     </div>
     <div>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=csvitor-dev&theme=github_dark" />
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=csvitor-dev&theme=github_dark&utcOffset=8" />
+    </div>
+    <div>
+	    <img src="https://github-readme-stats.vercel.app/api?username=csvitor-dev&border_color=2e343b&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark" />
     </div>
 </div>
 
@@ -116,11 +126,9 @@ May I be able to share that same enthusiasm!
 <br/>
 
 <div align="center">
-    <div style="background-color:#ffffff;width:fit-content;padding:6px 2px 0 2px;border-radius:25px;">
-	    <a href="https://github.com/An-Ordinary-Software-Engineering" target="_blank">
-		    <img src="./assets/aose-dark.svg" alt="aOSE logo" width="100" />
-	    </a>
-    </div>
+	<a href="https://github.com/An-Ordinary-Software-Engineering" target="_blank">
+	    <img src="./assets/aose-dark.svg" alt="aOSE logo" width="100" />
+	</a>
 </div>
 
 <br/>
