@@ -3,19 +3,14 @@
 ## My social medias
 
 <a href="https://github.com/csvitor-dev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/vitor-costa-de-sousa" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-
-### [`daily.dev`](https://daily.dev/) Dev Card
-
-<div align="center">
 <a href="https://app.daily.dev/csvitor" target="_blank">
-<img src="https://api.daily.dev/devcards/v2/gjB2ZMFvW7IL92UHqHcan.png?type=default&r=eyv" width="356" alt="Vitor Costa's Dev Card"/>
+<img src="https://img.shields.io/badge/dailydotdev-%2324292e.svg?&style=for-the-badge&logo=dailydotdev&logoColor=white" alt="dailydotdev" style="margin-bottom: 5px;" />
 </a>
-</div>
 
 ## About me
 
@@ -106,7 +101,9 @@ May I be able to share that same enthusiasm!
 
 <br/>
 
-## GitHub Stats
+## Stats
+
+### GitHub
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csvitor-dev&theme=github_dark" />
@@ -120,6 +117,12 @@ May I be able to share that same enthusiasm!
     <div>
 	    <img src="https://github-readme-stats.vercel.app/api?username=csvitor-dev&border_color=2e343b&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark" />
     </div>
+</div>
+
+### [`daily.dev`](https://daily.dev/) Dev Card
+
+<div align="center">
+<img src="https://api.daily.dev/devcards/v2/gjB2ZMFvW7IL92UHqHcan.png?type=default&r=eyv" width="356" alt="Vitor Costa's Dev Card"/>
 </div>
 
 <br/>
