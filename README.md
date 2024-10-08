@@ -122,7 +122,7 @@ May I be able to share that same enthusiasm!
 ### [`daily.dev`](https://daily.dev/) Dev Card
 
 <div align="center">
-<img src="https://api.daily.dev/devcards/v2/gjB2ZMFvW7IL92UHqHcan.png?type=default&r=eyv" width="356" alt="Vitor Costa's Dev Card"/>
+<a href="https://app.daily.dev/csvitor"><img src="https://api.daily.dev/devcards/v2/gjB2ZMFvW7IL92UHqHcan.png?type=wide&r=vh4" width="652" alt="Vitor Costa's Dev Card"/></a>
 </div>
 
 <br/>
