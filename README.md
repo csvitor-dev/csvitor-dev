@@ -2,14 +2,14 @@
 
 ## My social medias
 
-<a href="https://github.com/csvitor-dev" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+<a href="https://github.com/csvitor-dev" target="_blank" rel="external noreferrer noopener">
+	<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/vitor-costa-de-sousa" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/vitor-costa-de-sousa" target="_blank" rel="external noreferrer noopener">
+	<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="https://app.daily.dev/csvitor" target="_blank">
-<img src="https://img.shields.io/badge/dailydotdev-%2324292e.svg?&style=for-the-badge&logo=dailydotdev&logoColor=white" alt="dailydotdev" style="margin-bottom: 5px;" />
+<a href="https://app.daily.dev/csvitor" target="_blank" rel="external noreferrer noopener">
+	<img src="https://img.shields.io/badge/dailydotdev-%2324292e.svg?&style=for-the-badge&logo=dailydotdev&logoColor=white" alt="dailydotdev" style="margin-bottom: 5px;" />
 </a>
 
 ## About me
@@ -40,23 +40,43 @@ May I be able to share that same enthusiasm!
 
 <br/>
 
-## My Skill Set
+## My Skills and Learnings
 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
 
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
+	<a href="https://www.javascript.com/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+	</a>  
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+	</a>  
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+	</a>  
+	<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+	</a>  
+	<a href="https://www.tailwindcss.com/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+	</a>  
+	<a href="https://www.figma.com/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+	</a>  
+	<a href="https://reactjs.org/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+	</a>  
+	<a href="https://styled-components.com/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" />
+	</a>  
+	<a href="https://nextjs.org/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
+	</a>  
+	<a href="https://www.astro.build/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" />
+	</a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -64,17 +84,39 @@ May I be able to share that same enthusiasm!
 ### Backend
 
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+	</a>  
+	<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
+	</a>  
+	<a href="https://go.dev/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
+	</a>  
+	<a href="https://www.mongodb.com/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+	</a>  
+	<a href="https://www.postgresql.org/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+	</a>  
+	<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
+	</a>  
+	<a href="https://nestjs.com/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
+	</a>  
+	<a href="https://nodejs.org/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+	</a>  
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+	</a>  
+	<a href="https://graphql.org/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
+	</a>  
+	<a href="https://www.prisma.io/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" />
+	</a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -82,19 +124,35 @@ May I be able to share that same enthusiasm!
 ### DevOps
 
 <div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+	<a href="https://www.linux.org/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+	</a>  
+	<a href="https://github.com/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+	</a>  
+	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+	</a>  
+	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
+	</a>  
+	<a href="https://www.docker.com/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+	</a>  
+	<a href="https://www.jestjs.io/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" />
+	</a>  
 </div>
 
 ### Extras
 
 <div align="center">  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
+	<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />
+	</a>  
+	<a href="https://www.latex-project.org/" target="_blank" rel="external noreferrer noopener">
+		<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" />
+	</a>  
 </div>
 
 </td></tr></table>
@@ -122,14 +180,16 @@ May I be able to share that same enthusiasm!
 ### [`daily.dev`](https://daily.dev/) Dev Card
 
 <div align="center">
-<a href="https://app.daily.dev/csvitor"><img src="https://api.daily.dev/devcards/v2/gjB2ZMFvW7IL92UHqHcan.png?type=wide&r=vh4" width="652" alt="Vitor Costa's Dev Card"/></a>
+	<a href="https://app.daily.dev/csvitor" target="_blank" rel="external noreferrer noopener">
+		<img src="https://api.daily.dev/devcards/v2/gjB2ZMFvW7IL92UHqHcan.png?type=wide&r=vh4" width="652" alt="Vitor Costa's Dev Card"/>
+	</a>
 </div>
 
 <br/>
 <br/>
 
 <div align="center">
-	<a href="https://github.com/An-Ordinary-Software-Engineering" target="_blank">
+	<a href="https://github.com/An-Ordinary-Software-Engineering" target="_blank" rel="external noreferrer noopener">
 	    <img src="./assets/aose-dark.svg" alt="aOSE logo" width="100" />
 	</a>
 </div>
@@ -139,4 +199,6 @@ May I be able to share that same enthusiasm!
 
 ---
 
-<div align="center">Template from <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Template from 
+	<a href="https://profilinator.rishav.dev/" target="_blank" rel="external noreferrer noopener">Github Profilinator</a>
+</div>
