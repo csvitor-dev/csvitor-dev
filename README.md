@@ -177,6 +177,14 @@ May I be able to share that same enthusiasm!
     </div>
 </div>
 
+### Weekly Streak
+
+<div align="center">
+	<img src="https://streak-stats.demolab.com?user=csvitor-dev&theme=github-dark-blue&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" />
+	<br />
+	<p>Thanks <a href="https://git.io/streak-stats">GitHub Readme Streak Stats</a></p>
+</div>
+
 ### [`daily.dev`](https://daily.dev/) Dev Card
 
 <div align="center">
