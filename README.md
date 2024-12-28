@@ -28,7 +28,7 @@ May I be able to share that same enthusiasm!
 
 - 🎓 I'm graduating in **Software Engineering** from the Federal University of Ceará
 
-- 💼 I'm currently work on the [Mais-Informa](https://github.com/Mais-Informa) project
+- 💼 I'm currently work on the [**Mais-Informa**](https://github.com/Mais-Informa) project
 
 - 📚 I'm currently studying communication protocols between applications such as **_API REST_**, **_GraphQL_** and **_gRPC_**
 
@@ -185,12 +185,10 @@ May I be able to share that same enthusiasm!
 	<p>Thanks <a href="https://git.io/streak-stats">GitHub Readme Streak Stats</a></p>
 </div>
 
-### [`daily.dev`](https://daily.dev/) Dev Card
+### 2024 Retrospective, [**_Git Wrapped_**](https://git-wrapped.com/)
 
 <div align="center">
-	<a href="https://app.daily.dev/csvitor" target="_blank" rel="external noreferrer noopener">
-		<img src="https://api.daily.dev/devcards/v2/gjB2ZMFvW7IL92UHqHcan.png?type=wide&r=vh4" width="652" alt="Vitor Costa's Dev Card"/>
-	</a>
+	<img src="./assets/git-wrapped-csvitor-dev.png" width="320" alt="Vitor Costa's Retrospective"/>
 </div>
 
 <br/>
@@ -198,7 +196,7 @@ May I be able to share that same enthusiasm!
 
 <div align="center">
 	<a href="https://github.com/An-Ordinary-Software-Engineering" target="_blank" rel="external noreferrer noopener">
-	    <img src="./assets/aose-dark.svg" alt="aOSE logo" width="100" />
+	    <img src="./assets/aose-light.svg" alt="aOSE logo" width="100" />
 	</a>
 </div>
 
