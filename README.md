@@ -196,7 +196,11 @@ May I be able to share that same enthusiasm!
 
 <div align="center">
 	<a href="https://github.com/An-Ordinary-Software-Engineering" target="_blank" rel="external noreferrer noopener">
-	    <img src="./assets/aose-light.svg" alt="aOSE logo" width="100" />
+	    <picture>
+	        <source srcset="./assets/aose-light.svg" media="(prefers-color-scheme: dark)" width="100" alt="aOSE logo dark theme">
+	        <source srcset="./assets/aose-dark.svg" media="(prefers-color-scheme: light)" width="100" alt="aOSE logo light theme">
+	        <img src="./assets/aose-dark.svg" width="100" alt="aOSE logo dark theme as default">
+	    </picture>
 	</a>
 </div>
 
