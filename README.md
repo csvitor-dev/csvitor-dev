@@ -3,13 +3,13 @@
 ## My social medias
 
 <a href="https://github.com/csvitor-dev" target="_blank" rel="external noreferrer noopener">
-	<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/csvitor-dev" target="_blank" rel="external noreferrer noopener">
-	<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://app.daily.dev/csvitor" target="_blank" rel="external noreferrer noopener">
-	<img src="https://img.shields.io/badge/dailydotdev-%2324292e.svg?&style=for-the-badge&logo=dailydotdev&logoColor=white" alt="dailydotdev" style="margin-bottom: 5px;" />
+	<img src="https://img.shields.io/badge/dailydotdev-%2324292e.svg?&style=for-the-badge&logoColor=white" alt="dailydotdev" style="margin-bottom: 5px;" />
 </a>
 
 ## About me
