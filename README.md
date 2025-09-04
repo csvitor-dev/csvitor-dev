@@ -1,4 +1,4 @@
-# ⚙️ Hello! I'm Vitor Costa and welcome to my profile, `csvitor-dev`!
+# ⚙️ Hello! I'm Vitor Costa!
 
 ## My social medias
 
@@ -28,9 +28,7 @@ May I be able to share that same enthusiasm!
 
 - 🎓 I'm graduating in **Software Engineering** from the Federal University of Ceará
 
-- 💼 I'm currently work on the [**Mais-Informa**](https://github.com/Mais-Informa) project
-
-- 📚 I'm currently studying communication protocols between applications such as **_API REST_**, **_GraphQL_** and **_gRPC_**
+- 📚 I'm delving deeper into **Software Architecture** and **Design Patterns** studies
 
 - 💡 A life in a sentence: **concepts** are greater and more enduring than any **technology** that implements them. _Don't get hung up on technologies, but on concepts_
 
@@ -42,6 +40,7 @@ May I be able to share that same enthusiasm!
 
 ## My Skills and Learnings
 
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
@@ -148,6 +147,7 @@ May I be able to share that same enthusiasm!
 </div>
 
 </td></tr></table>
+</div>
 
 <br/>
 
