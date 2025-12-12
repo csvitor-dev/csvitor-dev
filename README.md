@@ -177,10 +177,10 @@ May I be able to share that same enthusiasm!
 	<p>Thanks <a href="https://git.io/streak-stats">GitHub Readme Streak Stats</a></p>
 </div>
 
-### 2024 Retrospective, [**_Git Wrapped_**](https://git-wrapped.com/)
+### 2025 Retrospective, [**_Git Wrapped_**](https://git-wrapped.com/)
 
 <div align="center">
-	<img src="./assets/git-wrapped-csvitor-dev.png" width="320" alt="Vitor Costa's Retrospective"/>
+	<img src="./assets/git-wrapped-csvitor-dev-2025.png" width="320" alt="Vitor Costa's Retrospective"/>
 </div>
 
 <br/>
